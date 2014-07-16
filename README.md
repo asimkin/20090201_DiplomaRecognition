@@ -3,6 +3,6 @@ rus-plate-recognition
 
 The source code of BA research in 2009 of vehicle license plates recognition.
 
-In the BA research, paper solves the task of recognition of license plates. The work is dedicated to the design of the information system from the development of the technical requirements up to programming algorithms and screens. Describes the results of research of algorithms of recognition of license plates. Conducted their experimental study of the dependence of quality recognition from the noise, change the brightness and geometric distortions. Determined the optimal recognition procedure. Experiments have shown that this system can be used in real time.
+In the BSc research, Anatoly solved the task of recognition of license plates. This work was dedicated to design of the information system. He developed software with two models of recognition and analyzed experiments results of quality recognition from image noise, change the brightness and geometric distortions. Based on results of the research He wrote his bachelor's thesis, got excellent mark and published several articles. The source code of this work published under the GPL license at GitHub.
 
-Your can read thesis at http://www.slideshare.net/asimkin/information-systems-design-license-plate-recognition, and technical requirements at http://www.slideshare.net/asimkin/tr-25033271.
+Your can read thesis at http://www.slideshare.net/asimkin/information-systems-design-license-plate-recognition, and product requirements document at http://www.slideshare.net/asimkin/tr-25033271.
